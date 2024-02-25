@@ -1,0 +1,450 @@
+{
+  "kana": [
+    {
+      "sn": 1,
+      "letters": "a",
+      "hiragana": "あ",
+      "katakana": "ア"
+    },
+    {
+      "sn": 2,
+      "letters": "i",
+      "hiragana": "い",
+      "katakana": "イ"
+    },
+    {
+      "sn": 3,
+      "letters": "u",
+      "hiragana": "う",
+      "katakana": "ウ"
+    },
+    {
+      "sn": 4,
+      "letters": "e",
+      "hiragana": "え",
+      "katakana": "エ"
+    },
+    {
+      "sn": 5,
+      "letters": "o",
+      "hiragana": "お",
+      "katakana": "オ"
+    },
+    {
+      "sn": 6,
+      "letters": "ka",
+      "hiragana": "か",
+      "katakana": "カ"
+    },
+    {
+      "sn": 7,
+      "letters": "ki",
+      "hiragana": "き",
+      "katakana": "キ"
+    },
+    {
+      "sn": 8,
+      "letters": "ku",
+      "hiragana": "く",
+      "katakana": "ク"
+    },
+    {
+      "sn": 9,
+      "letters": "ke",
+      "hiragana": "け",
+      "katakana": "ケ"
+    },
+    {
+      "sn": 10,
+      "letters": "ko",
+      "hiragana": "こ",
+      "katakana": "コ"
+    },
+    {
+      "sn": 11,
+      "letters": "sa",
+      "hiragana": "さ",
+      "katakana": "サ"
+    },
+    {
+      "sn": 12,
+      "letters": "si",
+      "hiragana": "し",
+      "katakana": "シ"
+    },
+    {
+      "sn": 13,
+      "letters": "su",
+      "hiragana": "す",
+      "katakana": "ス"
+    },
+    {
+      "sn": 14,
+      "letters": "se",
+      "hiragana": "せ",
+      "katakana": "セ"
+    },
+    {
+      "sn": 15,
+      "letters": "so",
+      "hiragana": "そ",
+      "katakana": "ソ"
+    },
+    {
+      "sn": 16,
+      "letters": "ta",
+      "hiragana": "た",
+      "katakana": "タ"
+    },
+    {
+      "sn": 17,
+      "letters": "ti",
+      "hiragana": "ち",
+      "katakana": "チ"
+    },
+    {
+      "sn": 18,
+      "letters": "tu",
+      "hiragana": "つ",
+      "katakana": "ツ"
+    },
+    {
+      "sn": 19,
+      "letters": "te",
+      "hiragana": "て",
+      "katakana": "テ"
+    },
+    {
+      "sn": 20,
+      "letters": "to",
+      "hiragana": "と",
+      "katakana": "ト"
+    },
+    {
+      "sn": 21,
+      "letters": "na",
+      "hiragana": "な",
+      "katakana": "ナ"
+    },
+    {
+      "sn": 22,
+      "letters": "ni",
+      "hiragana": "に",
+      "katakana": "ニ"
+    },
+    {
+      "sn": 23,
+      "letters": "nu",
+      "hiragana": "ぬ",
+      "katakana": "ヌ"
+    },
+    {
+      "sn": 24,
+      "letters": "ne",
+      "hiragana": "ね",
+      "katakana": "ネ"
+    },
+    {
+      "sn": 25,
+      "letters": "no",
+      "hiragana": "の",
+      "katakana": "ノ"
+    },
+    {
+      "sn": 26,
+      "letters": "ha",
+      "hiragana": "は",
+      "katakana": "ハ"
+    },
+    {
+      "sn": 27,
+      "letters": "hi",
+      "hiragana": "ひ",
+      "katakana": "ヒ"
+    },
+    {
+      "sn": 28,
+      "letters": "hu",
+      "hiragana": "ふ",
+      "katakana": "ㇷ"
+    },
+    {
+      "sn": 29,
+      "letters": "he",
+      "hiragana": "へ",
+      "katakana": "ヘ"
+    },
+    {
+      "sn": 30,
+      "letters": "ho",
+      "hiragana": "ほ",
+      "katakana": "ホ"
+    },
+    {
+      "sn": 31,
+      "letters": "ma",
+      "hiragana": "ま",
+      "katakana": "マ"
+    },
+    {
+      "sn": 32,
+      "letters": "mi",
+      "hiragana": "み",
+      "katakana": "ミ"
+    },
+    {
+      "sn": 33,
+      "letters": "mu",
+      "hiragana": "む",
+      "katakana": "ム"
+    },
+    {
+      "sn": 34,
+      "letters": "me",
+      "hiragana": "め",
+      "katakana": "メ"
+    },
+    {
+      "sn": 35,
+      "letters": "mo",
+      "hiragana": "も",
+      "katakana": "モ"
+    },
+    {
+      "sn": 36,
+      "letters": "ya",
+      "hiragana": "や",
+      "katakana": "ヤ"
+    },
+    {
+      "sn": 37,
+      "letters": "yu",
+      "hiragana": "ゆ",
+      "katakana": "ユ"
+    },
+    {
+      "sn": 38,
+      "letters": "yo",
+      "hiragana": "よ",
+      "katakana": "ヨ"
+    },
+    {
+      "sn": 39,
+      "letters": "ra",
+      "hiragana": "ら",
+      "katakana": "ラ"
+    },
+    {
+      "sn": 40,
+      "letters": "ri",
+      "hiragana": "り",
+      "katakana": "リ"
+    },
+    {
+      "sn": 41,
+      "letters": "ru",
+      "hiragana": "る",
+      "katakana": "ル"
+    },
+    {
+      "sn": 42,
+      "letters": "re",
+      "hiragana": "れ",
+      "katakana": "ㇾ"
+    },
+    {
+      "sn": 43,
+      "letters": "ro",
+      "hiragana": "ろ",
+      "katakana": "ロ"
+    },
+    {
+      "sn": 44,
+      "letters": "wa",
+      "hiragana": "わ",
+      "katakana": "ワ"
+    },
+    {
+      "sn": 45,
+      "letters": "wo",
+      "hiragana": "を",
+      "katakana": "ヲ"
+    }
+  ],
+  "dialTone": [
+    {
+      "sn": 1,
+      "letters": "n",
+      "hiragana": "ん",
+      "katakana": "ン"
+    }
+  ],
+  "voicedSound": [
+    {
+      "sn": 1,
+      "letters": "ga",
+      "hiragana": "が",
+      "katakana": "ガ"
+    },
+    {
+      "sn": 2,
+      "letters": "gi",
+      "hiragana": "ぎ",
+      "katakana": "ギ"
+    },
+    {
+      "sn": 3,
+      "letters": "gu",
+      "hiragana": "ぐ",
+      "katakana": "グ"
+    },
+    {
+      "sn": 4,
+      "letters": "ge",
+      "hiragana": "げ",
+      "katakana": "ゲ"
+    },
+    {
+      "sn": 5,
+      "letters": "go",
+      "hiragana": "ご",
+      "katakana": "ゴ"
+    },
+    {
+      "sn": 6,
+      "letters": "za",
+      "hiragana": "ざ",
+      "katakana": "ザ"
+    },
+    {
+      "sn": 7,
+      "letters": "zi",
+      "hiragana": "じ",
+      "katakana": "ジ"
+    },
+    {
+      "sn": 8,
+      "letters": "zu",
+      "hiragana": "ず",
+      "katakana": "ズ"
+    },
+    {
+      "sn": 9,
+      "letters": "ze",
+      "hiragana": "ぜ",
+      "katakana": "ゼ"
+    },
+    {
+      "sn": 10,
+      "letters": "zo",
+      "hiragana": "ぞ",
+      "katakana": "ゾ"
+    },
+    {
+      "sn": 11,
+      "letters": "da",
+      "hiragana": "だ",
+      "katakana": "ダ"
+    },
+    {
+      "sn": 12,
+      "letters": "di",
+      "hiragana": "ぢ",
+      "katakana": "ヂ"
+    },
+    {
+      "sn": 13,
+      "letters": "du",
+      "hiragana": "づ",
+      "katakana": "ヅ"
+    },
+    {
+      "sn": 14,
+      "letters": "de",
+      "hiragana": "で",
+      "katakana": "デ"
+    },
+    {
+      "sn": 15,
+      "letters": "do",
+      "hiragana": "ど",
+      "katakana": "ド"
+    },
+    {
+      "sn": 16,
+      "letters": "ba",
+      "hiragana": "ば",
+      "katakana": "バ"
+    },
+    {
+      "sn": 17,
+      "letters": "bi",
+      "hiragana": "び",
+      "katakana": "ビ"
+    },
+    {
+      "sn": 18,
+      "letters": "bu",
+      "hiragana": "ぶ",
+      "katakana": "ブ"
+    },
+    {
+      "sn": 19,
+      "letters": "be",
+      "hiragana": "べ",
+      "katakana": "ベ"
+    },
+    {
+      "sn": 20,
+      "letters": "bo",
+      "hiragana": "ぼ",
+      "katakana": "ボ"
+    }
+  ],
+  "halfVoiced": [
+    {
+      "sn": 1,
+      "letters": "pa",
+      "hiragana": "ぱ",
+      "katakana": "パ"
+    },
+    {
+      "sn": 2,
+      "letters": "pi",
+      "hiragana": "ぴ",
+      "katakana": "ピ"
+    },
+    {
+      "sn": 3,
+      "letters": "pu",
+      "hiragana": "ぷ",
+      "katakana": "プ"
+    },
+    {
+      "sn": 4,
+      "letters": "pe",
+      "hiragana": "ぺ",
+      "katakana": "ペ"
+    },
+    {
+      "sn": 5,
+      "letters": "po",
+      "hiragana": "ぽ",
+      "katakana": "ポ"
+    }
+  ],
+  "obstinateSound": [
+    {
+      "sn": 1,
+      "letters": "kya",
+      "hiragana": "きゃ",
+      "katakana": "キャ"
+    },
+    {
+      "sn": 2,
+      "letters": "kyu",
+      "hiragana": "きゅ",
+      "katakana": "キュ"
+    }
+  ]
+}
